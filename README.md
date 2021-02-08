@@ -8,8 +8,32 @@
   Um pequeno Script para automatizar um alto volume de mensagens no Zap e Cody Gêmeos em Ação.
     <br />
   <s> Não deixa o Biroliro saber disso </s>
+  <br />
+  <a href="https://github.com/Ttytamaki/Wpp_SpamBot/tree/main/SpamBot.exe">Executável</a>
+    ·
+    <a href="https://github.com/Ttytamaki/Wpp_SpamBot/tree/main/Script">Script</a>
   </p>
 </p>
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Conteúdo</summary>
+  <ol>
+    <li>
+      <a href="#o-que-é">O que é</a>
+    </li>
+    <li>
+      <a href="#como-usar">Como Usar</a>
+    </li>
+    <li><a href="#bugs-conhecidos">Bugs Conhecidos</a></li>
+  </ol>
+</details>
+
+<br />
+
+******
+
 
 
 ## O que é:
@@ -36,10 +60,22 @@ Basta ir para linha abaixo, logo após do aviso, e digitar: **y** ou **Y**, como
 7) Repita quantas vezes quiser e, quando quiser parar, basta inserir "**n**", "**N**";
 
 
+<img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200">
+
+
 ## Bugs Conhecidos:
 Há um erro conhecido na atual versão do bot:
 "USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema nÒo estß funcionando"
 Esse erro é um bug da atual versão do ChromeDrive;
 Não se preocupe! Caso aconteça, basta fazer o seguinte:
 - Vá para a linha logo abaixo, a primeira abaixo do texto e digite: **y** ou **Y**;
+
+<br />
+
+<br />
+
+
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
 
