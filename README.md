@@ -1,4 +1,3 @@
-# Wpp_SpamBot
 <p align="center">
   <img align='center' src="https://media.giphy.com/media/QtvHd6lI9q4iydr59B/giphy.gif" width="90">
     <h3 align="center"> Whatsapp Spam </h3>
